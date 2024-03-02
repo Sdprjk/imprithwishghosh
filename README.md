@@ -33,3 +33,100 @@ Technologies & Tools I have explored :
 --------------------------------------
 <p><a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a> <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>  <a href="#" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="#" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> <a href="#" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> <a href="#" target="_blank"><img alt="Python Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> <a href="#" target="_blank"><img alt="java" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></a> <a href="#" target="_blank"><img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/></a> <a href="#" target="_blank"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="#" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> <a href="#" target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a> <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a></p>
 
+## About
+
+This repository **contains** logos of **frameworks, programming languages, text editors, cloud, ides and among others**, and can be used to make your **README profile**.
+
+If you have a **logo** and would like to **share it**, please send a **pull request**.
+
+
+## Databases
+
+> Here are listed all the database logos.
+
+
+|                            | ✔️  Available      | ❌ Unavailable  |
+| -------------------------- | :----------------: | :-------------: |
+| Cassandra          	     |         ❌         |                 |
+| MongoDB                    |         ✔️         |                 |
+| Mysql        				 |         ✔️         |                 |
+| Oracle 					 |         ✔️         |                 |
+| Postgresql   				 |         ✔️         |                 |
+| Redis  		  			 |         ❌         |                 |
+| MariaDB       			 |                    |        ❌       |
+| CouchDB          			 |                    |        ❌       |
+| SQLite   					 |                    |        ✔️       |
+
+
+
+## Programming Languages
+
+> Here are listed all the programming languages logos.
+
+
+|                            | ✔️  Available      | ❌ Unavailable  |
+| -------------------------- | :----------------: | :-------------: |
+| C         	     		 |         ✔️         |                 |
+| C++                        |         ✔️         |                 |
+| C#        				 |         ✔️         |                 |
+| Dart					 	 |         ✔️         |                 |
+| Bash   				     |         ✔️         |                 |
+| Go  		  			     |         ❌         |                 |
+| Haskell       			 |         ❌         |                 |
+| Java          			 |         ✔️         |                 |
+| Javascript   			     |         ✔️         |                 |
+| Kotlin   			         |         ❌         |                 |
+| Php   			         |         ✔️         |                 |
+| Python   			         |         ✔️         |                 |
+| Ruby   			         |         ❌         |                 |
+| Rust   			         |         ❌         |                 |
+| Typescript   			     |         ✔️         |                 |
+| Fortran   			     |                    |        ❌       |
+| Pascal   			     	 |                    |        ❌       |
+| Cobol   			     	 |                    |        ❌       |
+| R   			     		 |                    |        ❌       |
+
+
+
+## Text Editors
+
+> Here are listed all the text editor's logos.
+
+
+|                            | ✔️  Available      | ❌ Unavailable  |
+| -------------------------- | :----------------: | :-------------: |
+| Atom         	 			 |         ✔️         |                 |
+| Notepad++                  |         ✔️         |                 |
+| Sublime        		     |         ✔️         |                 |
+| VS Code					 |         ✔️         |                 |
+
+
+
+## Frameworks
+
+> Here are listed all the frameworks logos.
+
+
+|                            | ✔️  Available      | ❌ Unavailable  |
+| -------------------------- | :----------------: | :-------------: |
+| Atom         	 			 |         ✔️         |                 |
+| Notepad++                  |         ✔️         |                 |
+| Sublime        		     |         ✔️         |                 |
+| VS Code					 |         ✔️         |                 |
+
+
+## Others
+
+> Here are listed some logos that do not fit the other categories.
+
+
+|                            | ✔️  Available      | ❌ Unavailable  |
+| -------------------------- | :----------------: | :-------------: |
+| Css         	 			 |         ✔️         |                 |
+| Git                  		 |         ✔️         |                 |
+| Gitkraken        		     |         ✔️         |                 |
+| Html					 	 |         ✔️         |                 |
+| Json					 	 |         ✔️         |                 |
+| Npm					 	 |         ✔️         |                 |
+
+
